@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @promitmoitra (https://www.sites.google.com/view/promitmoitra)
+- 👀 I’m interested in complex dynamical systems
+- 🌱 I’m currently learning cellular automata, genetic algorithms (DEAP), L-systems
+- 💞️ I’m looking to collaborate on the math of trajectories in discrete euclidean spaces
+- 📫 How to reach me: promitmoitra@gmail.com
